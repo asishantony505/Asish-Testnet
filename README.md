@@ -1,0 +1,2 @@
+# Asish-Testnet
+Testnet purpose
